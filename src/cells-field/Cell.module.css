@@ -1,0 +1,14 @@
+.field {
+	display: flex;
+	flex-wrap: wrap;
+	width: 90px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+}
+
+.button {
+	width: 30px;
+	height: 30px;
+}

@@ -1,0 +1,20 @@
+.mainContainer {
+	width: 120px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.button {
+	display: block;
+	width: 90px;
+	height: auto;
+	background-color: green;
+	border: none;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.button:hover {
+	background-color: rgb(10, 156, 10);
+}
+
